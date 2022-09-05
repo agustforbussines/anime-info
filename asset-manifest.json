@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/anime-info/static/css/main.1f6bd0fe.css",
+    "main.js": "/anime-info/static/js/main.7d5cc8d6.js",
+    "static/js/787.76f58928.chunk.js": "/anime-info/static/js/787.76f58928.chunk.js",
+    "index.html": "/anime-info/index.html",
+    "static/media/fire.svg": "/anime-info/static/media/fire.c718c9de5b1a18b9d5f50aa889c0dce1.svg",
+    "static/media/close.svg": "/anime-info/static/media/close.29cb93c0b937e2ce65d45b8eaddc5c32.svg",
+    "static/media/home.svg": "/anime-info/static/media/home.5094de74a24a12bbd84ab745c237ad46.svg",
+    "static/media/menu.svg": "/anime-info/static/media/menu.565bb7bdc135a3d5c6c2d7f4dd9adc01.svg",
+    "static/media/arrow.svg": "/anime-info/static/media/arrow.07fc474b213117c59ecef1e5c5600788.svg",
+    "static/media/info.svg": "/anime-info/static/media/info.37424edc88c65c7e121fd2980af94f00.svg",
+    "static/media/darkSearch.svg": "/anime-info/static/media/darkSearch.7cdce31c33f11a989799a9fbc5a96d82.svg",
+    "static/media/search.svg": "/anime-info/static/media/search.f95e6467a313ec03586267f502df7f19.svg",
+    "main.1f6bd0fe.css.map": "/anime-info/static/css/main.1f6bd0fe.css.map",
+    "main.7d5cc8d6.js.map": "/anime-info/static/js/main.7d5cc8d6.js.map",
+    "787.76f58928.chunk.js.map": "/anime-info/static/js/787.76f58928.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f6bd0fe.css",
+    "static/js/main.7d5cc8d6.js"
+  ]
+}
